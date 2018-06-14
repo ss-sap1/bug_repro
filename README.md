@@ -6,5 +6,5 @@ instruction:
 4. Download Geckodriver (https://github.com/mozilla/geckodriver/releases);
 5. Open files from repository;
 6. Install necessary python packages via cmd.exe, using "pip install";
-7. Run file;
+7. Run files one by one;
 8. See results of the run.
