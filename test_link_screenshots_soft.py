@@ -5,7 +5,7 @@ class LinkScreenshots(unittest.TestCase):
 
     def setUp(self):
         self.driver = webdriver.Firefox()
-        self.driver.get("http://blog.csssr.ru/qa-engineer")
+        self.driver.get("http://")
 
     def test_link_screenshots_soft(self):
         self.assertIn("Квест ассистента менеджера", self.driver.title)
